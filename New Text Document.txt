@@ -1,0 +1,18 @@
+echo "# kooda" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/scorpionib24/kooda.git
+git push -u origin main
+
+
+
+
+echo "# alkooda" >> README.md
+git init
+git add .
+git commit -m "01- first commit =>> upload all"
+git branch -M main
+git remote add origin https://github.com/scorpionib24/kooda.git
+git push -u origin main
