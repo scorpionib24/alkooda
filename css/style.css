@@ -206,7 +206,7 @@ nav ul li.active::after{
         display: none;
 }
 #openMenu{
-    right: 30px;
+    left: 30px;
 }
 #book{
     right: 75px;
